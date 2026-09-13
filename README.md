@@ -19,8 +19,8 @@ Tested on a Raspberry Pi 5 (8GB) with Raspberry Pi OS Lite 64-bit and a USB 3 ex
 Clone it or just grab the script directly:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Auto-Homeserver-Setup.git
-cd Auto-Homeserver-Setup
+git clone https://github.com/rowanisdom1-del/Auto-Homeserver-setup.git
+cd Auto-Homeserver-setup
 ```
 
 Then copy it to the Pi and run it:
