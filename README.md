@@ -76,8 +76,13 @@ Real issues found while actually running this on hardware, in case you hit the s
 - One external USB drive, already plugged in, and no others connected
 - Internet access on the Pi
 
+## Credits
+
+The underlying setup commands (Docker, Immich, Jellyfin compose, Samba, Tailscale, the Pi 5 page-size fix) are from **Tucker**'s Raspberry Pi 5 media server guide — this repo just wraps them into one unattended, self-resuming, reboot-safe script. All credit for the original command sequence goes to him.
+
 ## License
 
 Use it, change it, break it, it's yours.
+## License
 
 Use it, change it, break it, it's yours.
